@@ -56,10 +56,10 @@ console.log(array1);
 array1.pop();
 console.log(array1);
 
-array1.unshift(0);
+array1.unshift(0);//add the elemnt at start
 console.log(array1);
 
-array1.shift();
+array1.shift();//removes the element from start
 console.log(array1);
 
 //9
